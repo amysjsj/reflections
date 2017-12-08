@@ -20,3 +20,7 @@ manually?
 // add a new change
 
 // add a second change 
+
+// new branch as easy-mode
+
+// add a change on new branch
