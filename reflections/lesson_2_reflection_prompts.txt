@@ -18,3 +18,5 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 // add a new change
+
+// add a second change 
