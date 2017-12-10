@@ -24,3 +24,5 @@ manually?
 // new branch as easy-mode
 
 // add a change on new branch
+
+// add a second change on easy branch
