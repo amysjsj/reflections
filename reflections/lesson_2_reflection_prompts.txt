@@ -16,13 +16,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
-// add a new change
-
-// add a second change 
-
-// new branch as easy-mode
-
-// add a change on new branch
-
-// add a second change on easy branch
+add a new change
+add a change on new branch
+add a second change on easy branch
+add a second change 
+new branch as easy-mode
